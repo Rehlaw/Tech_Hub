@@ -104,7 +104,7 @@ body {
     transform: translateY(-2px);
 }
 
-.freatured {
+.featured {
     padding: 80px 0;
     background-color: #f8fafc;
 }
@@ -223,7 +223,7 @@ body {
     flex-wrap: wrap;
 }
 
-.filter-bnt {
+.filter-btn {
     padding: 10px 20px;
     background-color: #e2e8f0;
     color: #64748b;
